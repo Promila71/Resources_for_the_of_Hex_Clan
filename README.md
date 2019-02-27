@@ -1,6 +1,8 @@
 # Resources_for_the_of_Hex_Clan
 Resources for the Hex Clan group of North Western University
 
+![bitmap](https://user-images.githubusercontent.com/39271244/53488146-a5681a00-3ab7-11e9-83b7-2106eab9e22f.png)
+
 These sequences will be followed: 
 1.Data Type, Input and Output
 2.Conditional Logic and Loop
